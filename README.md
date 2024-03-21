@@ -33,12 +33,12 @@ Statement](./0x07.md) |
 [Boilerplate](https://github.com/tiet-ucs505/0x07-2d-primitives)
 | [Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSdmWJoYQzw2B_xgiqTSuYdEumigXqnRTr8fCIaA9ptPvf_KTQ/viewform?usp=pp_url&entry.1189318782=3CO6&entry.294246879=10210000&entry.117129202=Shakti+Mann&entry.1197422271=https://github.com/shaktimann000/)
 
-|                  |                          |
-|------------------|--------------------------|
-| Code             | 0x07                     |
-| Submission Opens | Wed 3 Apr 2024 17:00 hrs |
-| Deadline         | Mon 8 Apr 2024 08:00 hrs |
-| Weightage        | 3 marks                  |
+|                       |                          |
+|-----------------------|--------------------------|
+| Submission Code       | 0x07                     |
+| Submission Form Opens | Wed 3 Apr 2024 17:00 hrs |
+| Deadline              | Mon 8 Apr 2024 08:00 hrs |
+| Weightage             | 3 marks                  |
 
 ### 0x08 : 2D Animation (Project) ###
 [Problem
@@ -48,10 +48,10 @@ Statement](./0x08.md) |
 
 |                         |                           |
 |-------------------------|---------------------------|
-| Code                    | 0x08                      |
-| First Submission Opens  | Wed 10 Apr 2024 17:00 hrs |
+| Submission Code         | 0x08                      |
+| Submission Form 1 Opens | Wed 10 Apr 2024 17:00 hrs |
 | First Deadline          | Sat 13 Apr 2024 08:00 hrs |
-| Second Submission Opens | Wed 10 Apr 2024 17:00 hrs |
+| Submission Form 2 Opens | Wed 10 Apr 2024 17:00 hrs |
 | Second Deadline         | Mon 22 Apr 2024 08:00 hrs |
 | Weightage               | 6 marks                   |
 
@@ -62,13 +62,13 @@ Statement](./0x09.md) |
 [Boilerplate](https://github.com/tiet-ucs505/0x09-2d-line-clipping)
 | [Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSc1mmH9ZBhpvH3ajKFbpPpzgTcvZBBG3_vs6kzND-H5_q3E_Q/viewform?usp=pp_url&entry.1189318782=3CO6&entry.294246879=10210000&entry.117129202=Shakti+Mann&entry.1197422271=https://github.com/shaktimann000/0x09)
 
-|                  |                                     |
-|------------------|-------------------------------------|
-| Code             | 0x09                                |
-| Submission Opens | Fri 19 Apr 2024 17:00 hrs           |
-| Deadline         | Thu 25 Apr 2024 08:00 hrs           |
-| Weightage        | 2 marks                             |
-| Remark           | 3CS6 to have an extra lab on 19-Apr |
+|                       |                                     |
+|-----------------------|-------------------------------------|
+| Submission Code       | 0x09                                |
+| Submission Form Opens | Fri 19 Apr 2024 17:00 hrs           |
+| Deadline              | Thu 25 Apr 2024 08:00 hrs           |
+| Weightage             | 2 marks                             |
+| Remark                | 3CS6 to have an extra lab on 19-Apr |
 
 
 ### 0x0a : Rotating Colourful Cube ###
@@ -76,24 +76,24 @@ Statement](./0x09.md) |
 [Boilerplate](https://github.com/tiet-ucs505/0x0a-rotating-colourful-cube)
 | [Submission Form](https://docs.google.com/forms/d/e/1FAIpQLScBTZfmCkCzzmxTJflvpqvf628hT3GuNwgTAytvYyUImJc-cQ/viewform?usp=pp_url&entry.1189318782=3CO6&entry.294246879=10210000&entry.117129202=Shakti+Mann&entry.1197422271=https://github.com/shaktimann000/0x0a)
 
-|                  |                              |
-|------------------|------------------------------|
-| Code             | 0x0a                         |
-| Submission Opens | Wed 24 Apr 2024 17:00 hrs    |
-| Deadline         | Mon 29 Apr 2024 08:00 hrs    |
-| Weightage        | 2 marks                      |
+|                       |                           |
+|-----------------------|---------------------------|
+| Submission Code       | 0x0a                      |
+| Submission Form Opens | Wed 24 Apr 2024 17:00 hrs |
+| Deadline              | Mon 29 Apr 2024 08:00 hrs |
+| Weightage             | 2 marks                   |
 
 ### 0x0b : Solar System ###
 [Problem Statement](./0x0b.md) |
 [Boilerplate](https://github.com/tiet-ucs505/0x0b-solar-system)
 | [Submission Form](https://docs.google.com/forms/d/e/1FAIpQLScBFxf5qgidlS_tVjWKTiwuYZ7aP07lvE9CxHi5AYRfyWfhDw/viewform?usp=pp_url&entry.1189318782=3CO6&entry.294246879=10210000&entry.117129202=Shakti+Mann&entry.1197422271=https://github.com/shaktimann000/0x0b)
 
-|                  |                             |
-|------------------|-----------------------------|
-| Code             | 0x0b                        |
-| Submission Opens | Wed 1 May 2024 17:00 hrs    |
-| Deadline         | Mon 6 May 2024 08:00 hrs    |
-| Weightage        | 2 marks                     |
+|                       |                          |
+|-----------------------|--------------------------|
+| Submission Code       | 0x0b                     |
+| Submission Form Opens | Wed 1 May 2024 17:00 hrs |
+| Deadline              | Mon 6 May 2024 08:00 hrs |
+| Weightage             | 2 marks                  |
 
 
 ## Logistics ##

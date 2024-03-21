@@ -7,7 +7,7 @@ There are [5 assignments](#schedule-of-assignments);
 contributing a total sum of 15 marks towards your Lab
 Evaluation.  For each assignment a candidate is
 provided with a problem statement and starter code (or
-stater template) in github repository.  [Fork the
+starter template) in github repository.  [Fork the
 repo](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
 to get started with the assignment.  **Update your
 identity first**, and further follow instructions to
@@ -30,7 +30,7 @@ ID](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History);
 ### 0x07 : 2D Primitives ###
 [Problem
 Statement](./0x07.md) |
-[Stater Template](https://github.com/tiet-ucs505/0x07-2d-primitives)
+[Starter Template](https://github.com/tiet-ucs505/0x07-2d-primitives)
 | [Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSdmWJoYQzw2B_xgiqTSuYdEumigXqnRTr8fCIaA9ptPvf_KTQ/viewform?usp=pp_url&entry.1189318782=3CO6&entry.294246879=10210000&entry.117129202=Shakti+Mann&entry.1197422271=https://github.com/shaktimann000/)
 
 |                       |                          |
@@ -43,7 +43,7 @@ Statement](./0x07.md) |
 ### 0x08 : 2D Animation (Project) ###
 [Problem
 Statement](./0x08.md) |
-[Stater Template](https://github.com/tiet-ucs505/0x08-2d-animation-project)
+[Starter Template](https://github.com/tiet-ucs505/0x08-2d-animation-project)
 | [First Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSed6kxNCwgWZhej7wNamH5KpcSx03WXtDFQN0u1yLY7AaQ5sQ/viewform?usp=pp_url&entry.1189318782=3CO6&entry.294246879=10210000&entry.117129202=Shakti+Mann&entry.1197422271=https://github.com/shaktimann000/0x08) | [Second Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSfqPOC6JAZbnGd6d7kflzy94OFvDiBj654cON969e5US9b0zg/viewform?usp=pp_url&entry.1189318782=3CO6&entry.294246879=10210000&entry.117129202=Shakti+Mann&entry.1197422271=https://github.com/shaktimann000/0x08)
 
 |                         |                           |
@@ -59,7 +59,7 @@ Statement](./0x08.md) |
 ### 0x09 : 2D Line Clipping ###
 [Problem
 Statement](./0x09.md) |
-[Stater Template](https://github.com/tiet-ucs505/0x09-2d-line-clipping)
+[Starter Template](https://github.com/tiet-ucs505/0x09-2d-line-clipping)
 | [Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSc1mmH9ZBhpvH3ajKFbpPpzgTcvZBBG3_vs6kzND-H5_q3E_Q/viewform?usp=pp_url&entry.1189318782=3CO6&entry.294246879=10210000&entry.117129202=Shakti+Mann&entry.1197422271=https://github.com/shaktimann000/0x09)
 
 |                       |                                     |
@@ -73,7 +73,7 @@ Statement](./0x09.md) |
 
 ### 0x0a : Rotating Colourful Cube ###
 [Problem Statement](./0x0a.md) |
-[Stater Template](https://github.com/tiet-ucs505/0x0a-rotating-colourful-cube)
+[Starter Template](https://github.com/tiet-ucs505/0x0a-rotating-colourful-cube)
 | [Submission Form](https://docs.google.com/forms/d/e/1FAIpQLScBTZfmCkCzzmxTJflvpqvf628hT3GuNwgTAytvYyUImJc-cQ/viewform?usp=pp_url&entry.1189318782=3CO6&entry.294246879=10210000&entry.117129202=Shakti+Mann&entry.1197422271=https://github.com/shaktimann000/0x0a)
 
 |                       |                           |
@@ -85,7 +85,7 @@ Statement](./0x09.md) |
 
 ### 0x0b : Solar System ###
 [Problem Statement](./0x0b.md) |
-[Stater Template](https://github.com/tiet-ucs505/0x0b-solar-system)
+[Starter Template](https://github.com/tiet-ucs505/0x0b-solar-system)
 | [Submission Form](https://docs.google.com/forms/d/e/1FAIpQLScBFxf5qgidlS_tVjWKTiwuYZ7aP07lvE9CxHi5AYRfyWfhDw/viewform?usp=pp_url&entry.1189318782=3CO6&entry.294246879=10210000&entry.117129202=Shakti+Mann&entry.1197422271=https://github.com/shaktimann000/0x0b)
 
 |                       |                          |

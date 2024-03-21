@@ -3,72 +3,27 @@
 
 ## Overview ##
 
-There are 5 assignments; contributing a total sum of 15
-marks towards your Lab Evaluation.
+There are [5 assignments](#schedule-of-assignments);
+contributing a total sum of 15 marks towards your Lab
+Evaluation.  For each assignment a candidate is
+provided with a problem statement and starter code (or
+boilerplate) in github repository.  [Fork the
+repo](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
+to get started with the assignment.  **Update your
+identity first**, and further follow instructions to
+work on it.
 
-### The Do's ###
-+ A submission is admissible only using a thapar.edu
-  account.
-+ Candidates are encouraged to sensibly use external
-  resources and duly acknowledge them using citations,
-  *e.g.*  geometry definitions for a tranformation
-  exercise.  Failure to cite an external resource shall
-  be tantamount to plagiarism.
-+ All assignments shall be submit as a link to your
-  fork of the git repository.
-+ In order to ensure the integrity of submission, the
-  submission form shall contain a *Commit* field that
-  matches the `git-commit` of the submission.
-+ The deadlines are soft in the sense, that a delayed
-  submission is admissible, albeit with a penalty of
-  30% rounded away from zero.
-+ Invariably all assignments would require to modify
-  your name and roll number on `experiment.js`, /eg./
-  ```javascript
-  class Experiment {
-    // Candidate Details
-    static rollNo = '10983743'
-    static name = 'The Tutor'
+The submission will be through a google form, with
+essentially three main parts as follows.  The logistics
+are detailed out [further in the
+document](#logistics).
++ A github URL : to a candidate's fork of the
+  assignment;
++ A [commit
+ID](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History); 
++ A teaser image; and 
++ A video link.
 
-    // ...
-  }
-  ```
-  And it shall reflect on the top right of your page
-  like:
-  
-  ![](./assets/name-roll-example.png)
-+ The top right of the canvas is overlaid with a
-  download button for quick capture of the canvas.
-  This is better than Canvas > Right-click > "Save to
-  image..." in that the filename contains roll number
-  and submission code by default.
-+ The assignments with controls, the controls might
-  have to be enabled inside `Experiment.constructor` as
-  follows,
-  ```javascript
-  class Experiment {
-    // ...
-    constructor() {
-      //...
-
-      // Uncomment to enable tranform controls
-      // --------------------------------------------------
-      this.controls.unhide()
-
-      //...
-    }
-  }
-  ```
-  This shall reveal the controls on the page.
-  
-
-### The Don'ts ###
-
-A submission shall be rendered null and void, if
-+ Submission format is not followed; or
-+ Submit using a personal email id etc; or
-+ Code is plagiarised; or
-+ Use of uncited external resources.
 
 ## Schedule of Assignments ##
 
@@ -140,3 +95,60 @@ Statement](./0x09.md) |
 | Deadline         | Mon 6 May 2024 08:00 hrs    |
 | Weightage        | 2 marks                     |
 
+
+## Logistics ##
++ A submission is admissible *only* using a thapar.edu
+  account.
++ Candidates **are encouraged** to sensibly use
+  external resources and duly acknowledge them using
+  citations, *e.g.*  geometry definitions for a
+  tranformation exercise.  Failure to cite an external
+  resource shall be tantamount to plagiarism.
++ The deadlines are soft in the sense, that a delayed
+  submission is admissible, albeit with **a penalty**
+  of 30% rounded away from zero.
++ **To update your identity**: Modify your name and
+  roll number on `experiment.js`, *eg.*
+
+  ```javascript
+  class Experiment {
+    // Candidate Details
+    static rollNo = '10983743'
+    static name = 'The Tutor'
+
+    // ...
+  }
+  ```
+  And it shall reflect on the top right of your page
+  like:
+  
+  ![](./assets/name-roll-example.png)
++ **To save the canvas**: The top right of the canvas
+  is overlaid with a download button for quick capture
+  of the canvas.  This is better than Canvas >
+  Right-click > "Save to image..." in that the filename
+  contains roll number and submission code by default.
++ **To hide/reveal the controls UI:** Visibility of the
+  controls UI may be toggled inside
+  `Experiment.constructor` (generally in
+  `experiment.js`) as follows,
+
+  ```javascript
+  class Experiment {
+    // ...
+    constructor() {
+      //...
+
+      // Uncomment to enable tranform controls
+      // --------------------------------------------------
+      this.controls.unhide()
+
+      //...
+    }
+  }
+  ```
+  This shall reveal the controls on the page, as
+  follows,
+  ![](./assets/controls-example.png)
++ Any unethical practices (like plagiarism etc.)
+  **shall be taken seriously**.

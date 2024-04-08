@@ -100,7 +100,8 @@ deadline.
   novelty, originality etc.
 
 ## Logistic protocol and suggestions ##
-+ The assignment shall be written only in javascript.
++ The assignment shall be written **only** in
+  HTML/CSS/Javascript.
 + A submission is admissible **only** using a
   thapar.edu account.
 + Candidates **are encouraged** to sensibly use

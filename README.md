@@ -21,16 +21,16 @@ assignments](./README.orig.md) are **null and void**
 
 [Starter
 Template](https://github.com/tiet-ucs505/0x08-2d-animation-project)
-| [First Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSed6kxNCwgWZhej7wNamH5KpcSx03WXtDFQN0u1yLY7AaQ5sQ/viewform?usp=pp_url&entry.1189318782=3CO6&entry.294246879=109538745%3A%20Title%20Cased%20Name%0A109538457%3A%20Another%20Name%0A109538547%3A%20One%20More%20Name&entry.117129202=The+Punjab+Kings&entry.1197422271=https://github.com/pbks0000/0x08) | [Second Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSfqPOC6JAZbnGd6d7kflzy94OFvDiBj654cON969e5US9b0zg/viewform?usp=pp_url&entry.1189318782=3CO6&entry.294246879=109538745%3A%20Title%20Cased%20Name%0A109538457%3A%20Another%20Name%0A109538547%3A%20One%20More%20Name&entry.117129202=The+Punjab+Kings&entry.1197422271=https://github.com/pbks0000/0x08)
+| [Storyboard Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSed6kxNCwgWZhej7wNamH5KpcSx03WXtDFQN0u1yLY7AaQ5sQ/viewform?usp=pp_url&entry.1189318782=3CO6&entry.294246879=109538745%3A%20Title%20Cased%20Name%0A109538457%3A%20Another%20Name%0A109538547%3A%20One%20More%20Name&entry.117129202=The+Punjab+Kings&entry.1197422271=https://github.com/pbks0000/0x08) | [Final Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSfqPOC6JAZbnGd6d7kflzy94OFvDiBj654cON969e5US9b0zg/viewform?usp=pp_url&entry.1189318782=3CO6&entry.294246879=109538745%3A%20Title%20Cased%20Name%0A109538457%3A%20Another%20Name%0A109538547%3A%20One%20More%20Name&entry.117129202=The+Punjab+Kings&entry.1197422271=https://github.com/pbks0000/0x08)
 
-|                         |                           |
-|-------------------------|---------------------------|
-| Code                    | 0x08                      |
-| First Submission Opens  | Wed 08 Apr 2024 17:00 hrs |
-| First Deadline          | Sat 10 Apr 2024 20:00 hrs |
-| Second Submission Opens | Wed 10 Apr 2024 17:00 hrs |
-| Second Deadline         | Mon 22 Apr 2024 08:00 hrs |
-| Weightage               | 15 marks                  |
+|                                |                           |
+|--------------------------------|---------------------------|
+| Assignment Code                | 0x08                      |
+| Storyboard Submission Opens    | Wed 08 Apr 2024 17:00 hrs |
+| Storyboard Submission Deadline | Sat 10 Apr 2024 20:00 hrs |
+| Final Submission Opens         | Wed 10 Apr 2024 17:00 hrs |
+| Final Deadline                 | Mon 22 Apr 2024 08:00 hrs |
+| Weightage                      | 15 marks                  |
 
 ![](./assets/0x08.png)
 
@@ -51,7 +51,7 @@ Create a storyboard of your target animation sequence
 (or a [perpetual
 motion](https://www.google.com/search?q=perpetual+motion))
 as you please.  This'll be your pitch to be submitted
-on the first deadline
+on the storyboard submission deadline.
 
 ### Step 2: Animation ###
 

@@ -75,6 +75,49 @@ geometry, its tranforms and /or its render styles.
 As a project this gets submitted on the second
 deadline.
 
+## Using This Codebase ##
+
++ Fork this repository, and clone it to your workspace.
++ **Update your identity**: Modify your name and
+  roll number on `experiment.js`, *eg.*
+
+  ```javascript
+  class Experiment {
+    // Candidate Details
+    static rollNo = '10983437,10983743'
+    static name = 'The Tutors(Akhtar Banga, Phul Tekchand)'
+
+    // ...
+  }
+  ```
+  And it shall reflect on the top right of your page
+  like:
+  
+  ![](./assets/name-roll-example.png)
++ **To save the canvas**: The top right of the canvas
+  is overlaid with a download button for quick capture
+  of the canvas.  This is better than Canvas >
+  Right-click > "Save to image..." in that the filename
+  contains roll number and submission code by default.
+
+### Inside the `run` function ###
+
++ The canvas selector is available as `this.canvasSel`;
+  and the canvas `DOM Node` may be retrieved as,
+  
+  ```javascript
+  const canvas = document.querySelector(this.canvasSel)
+  ```
++ There's a helper function `getCanvas` that can
+  retrieve for you three useful details,
+  + `DOM Node` of canvas;
+  + 2D context of the canvas; and 
+  + Bounding box details of the canvas as follows,
+  
+  ```javascript
+  const {canvas, ctx, bb} = getCanvas(this.canvasSel)
+  ```
+
 ## Deliverables ##
 
 ### Storyboard ###
@@ -114,26 +157,5 @@ deadline.
   of 30% rounded away from zero. *E.g.* 30% of a 5 mark
   submission is rounded away to 2 marks, and 30% of 10
   marks is rounded away to 4.
-+ **To update your identity**: Modify your name and
-  roll number on `experiment.js`, *eg.*
-
-  ```javascript
-  class Experiment {
-    // Candidate Details
-    static rollNo = '10983437,10983743'
-    static name = 'The Tutors(Akhtar Banga, Phul Tekchand)'
-
-    // ...
-  }
-  ```
-  And it shall reflect on the top right of your page
-  like:
-  
-  ![](./assets/name-roll-example.png)
-+ **To save the canvas**: The top right of the canvas
-  is overlaid with a download button for quick capture
-  of the canvas.  This is better than Canvas >
-  Right-click > "Save to image..." in that the filename
-  contains roll number and submission code by default.
 + Any unethical practices (like plagiarism etc.)
   **shall be taken seriously**.

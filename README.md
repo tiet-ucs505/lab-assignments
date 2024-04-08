@@ -64,7 +64,7 @@ geometry, its tranforms and /or its render styles.
 As a project this gets submitted on the second
 deadline.
 
-## Submit ##
+## Deliverables ##
 
 ### Storyboard ###
 
@@ -80,7 +80,7 @@ deadline.
 3. Teaser
 4. Video Link
 
-## Evaluation Criteria: ##
+## Evaluation Criteria ##
 
 + *5 mark*: Storyboard : Clarity on what to do, how
   much may be achieved, and creativity;
@@ -89,8 +89,8 @@ deadline.
   novelty, originality etc.
 
 ## Logistics ##
-+ A submission is admissible *only* using a thapar.edu
-  account.
++ A submission is admissible **only** using a
+  thapar.edu account.
 + Candidates **are encouraged** to sensibly use
   external resources and duly acknowledge them using
   citations, *e.g.*  geometry definitions for a

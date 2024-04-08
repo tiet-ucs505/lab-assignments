@@ -36,6 +36,17 @@ Template](https://github.com/tiet-ucs505/0x08-2d-animation-project)
 
 ## Assignment ##
 
+Create an interactive/animated graphic sequence (or a
+perpetual motion sequence) and invoke it within the
+`run()` function of `experiment.js`.  This is a
+creative-technical exercise, with a third of weightage
+to design/creativity.
+
+The submission shall be in two steps, namely
+"Storyboard" and "Final" submissions.  The late
+submissions shall attract a penalty of marks as per
+protocol.
+
 ### Step 1: Storyboard ###
 
 [What is a
@@ -88,7 +99,8 @@ deadline.
 + *5 mark*: USP, eg. creativity, interactivity,
   novelty, originality etc.
 
-## Logistics ##
+## Logistic protocol and suggestions ##
++ The assignment shall be written only in javascript.
 + A submission is admissible **only** using a
   thapar.edu account.
 + Candidates **are encouraged** to sensibly use
@@ -98,7 +110,9 @@ deadline.
   resource shall be tantamount to plagiarism.
 + The deadlines are soft in the sense, that a delayed
   submission is admissible, albeit with **a penalty**
-  of 30% rounded away from zero.
+  of 30% rounded away from zero. *E.g.* 30% of a 5 mark
+  submission is rounded away to 2 marks, and 30% of 10
+  marks is rounded away to 4.
 + **To update your identity**: Modify your name and
   roll number on `experiment.js`, *eg.*
 

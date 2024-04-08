@@ -103,7 +103,7 @@ deadline.
 + The assignment shall be written **only** in
   HTML/CSS/Javascript.
 + A submission is admissible **only** using a
-  thapar.edu account.
+  `thapar.edu` account.
 + Candidates **are encouraged** to sensibly use
   external resources and duly acknowledge them using
   citations, *e.g.*  geometry definitions for a

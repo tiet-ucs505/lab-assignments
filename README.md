@@ -26,8 +26,8 @@ Template](https://github.com/tiet-ucs505/0x08-2d-animation-project)
 |                                |                           |
 |--------------------------------|---------------------------|
 | Assignment Code                | 0x08                      |
-| Storyboard Submission Opens    | Wed 08 Apr 2024 17:00 hrs |
-| Storyboard Submission Deadline | Sat 10 Apr 2024 20:00 hrs |
+| Storyboard Submission Opens    | Mon 08 Apr 2024 17:00 hrs |
+| Storyboard Submission Deadline | Wed 10 Apr 2024 20:00 hrs |
 | Final Submission Opens         | Wed 10 Apr 2024 17:00 hrs |
 | Final Deadline                 | Mon 22 Apr 2024 08:00 hrs |
 | Weightage                      | 15 marks                  |

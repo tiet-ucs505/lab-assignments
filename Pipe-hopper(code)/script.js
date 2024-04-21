@@ -107,14 +107,9 @@ function updatePipe() {
         pipePassed = false;
         pipes.shift();
     }
-    if (pipeX + pipeWidth > 100 && pipeX < 120 && !pipePassed) {
+    if (pipeX < 80 && !pipePassed) {
         score++;
         pipePassed = true;
-    }
-    if (pipes.length > 0 && pipeX < 120 && pipeX + pipeWidth > 100) {
-        if (birdY - 10 > pipes[0].y + pipeGap / 2 || birdY + 10 < pipes[0].y - pipeGap / 2) {
-            score++;
-        }
     }
     if (pipeX + pipeWidth > 100 && pipeX < 120 &&
         (birdY < pipes[0].y - pipeGap / 2 || birdY > pipes[0].y + pipeGap / 2)) {
@@ -122,7 +117,7 @@ function updatePipe() {
     }
 
     // Check if the pipe is completely out of the canvas before changing color
-    if (pipeX < 0) {
+    if (pipeX < -40 ) {
         changePipeColor();
     }
 }
@@ -161,7 +156,7 @@ function moveClouds() {
             clouds[i].x = canvas.width; // Reset the cloud position to the right side of the canvas
             clouds[i].y = Math.random() * (canvas.height - cloudHeight);
         }
-        if (clouds[i].x > canvas.width) { // Check if the endmost point of the cloud has reached the canvas width
+        if (clouds[i].x - clouds[i].size > canvas.width) { // Check if the endmost point of the cloud has reached the canvas width
             clouds[i].x = -cloudWidth; // Reset the cloud position to the left side of the canvas
             clouds[i].y = Math.random() * (canvas.height - cloudHeight);
         }

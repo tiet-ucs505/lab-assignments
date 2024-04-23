@@ -1,6 +1,8 @@
 # UCS505 Lab Project
 (Jan 2024)
 
+**Update: 23 Apr 2024:** [Deadline Relaxed.](#0x08--documentation-and-presentation)
+
 **Update: 8 Apr 2024:** [Project Announced.](#0x08--animations-project)
 
 **Update: 2 Apr 2024**
@@ -159,3 +161,76 @@ deadline.
   marks is rounded away to 4.
 + Any unethical practices (like plagiarism etc.)
   **shall be taken seriously**.
+
+# 0x08 : Documentation and Presentation
+[2024-04-23 Tue]
+
+Dear All,
+
+Congratulations on the successful submission of your
+project!  I am able to witness that in general, you
+have been able to grasp the fundamentals of graphics,
+and especially, the character of visual appeal in
+static spatial domain as well as the spatio-temporal
+domain.
+
+I, however, believe that there’s a scope of improvement
+in terms of presentation, documentation and demo of
+your project. Hence, a new component of 5-mark for
+project documentation, and another 5-mark for
+presentation (viva) has been added so that the project
+will be evaluated out of 25 marks, but will be scaled
+eventually, to 15-marks of lab evaluation.
+
+For *documentation*, you shall create a **live** “Project
+Page”, most easily done on [Github Pages](https://pages.github.com/), [Google Sites](https://support.google.com/a/users/answer/9310491?hl=en),
+[Netlify](https://www.netlify.com/), [Wordpress](https://wordpress.com/) and so forth.  I would suggest that
+you have an online profile on XXX.github.io (or alike),
+and your “Project Page” be
+XXX.github.io/YOUR-PROJECT-NAME.html .  The “Project
+Page” shall link to a **live** “Working Demo”, say
+something like
+XXX.github.io/demos/YOUR-PROJECT-NAME/index.html.
+
+The *documentation* shall include the list of
+resources, assets, sources of inspiration etc. that you
+have used; a brief note on each of your objective,
+challenges, how you overcame them, and a link to the
+working demo.  That is, follow [the STAR method](https://www.google.com/search?hl=en&q=the%20STAR%20method) for
+reporting.
+
+The deadline for your submission is May 2 08:00 am.  A
+link to submission form shall follow.
+
+For *presentation*, you shall be give a 7-min window to
+present yourself: 3-4 mins for presentation and the
+same for cross-examination.  Here’s a list of tentative
+questions in the mind of an examiner, and suggested
+time frame.
+
+-   Ease in (30 seconds)
+-   Overview (45 seconds)
+-   The Architecture: Static Graphics – Challenges (1
+    min)
+-   The Architecture: Graphic Animations – Strategy (1
+    min)
+-   Conclude (30 seconds)
+
+I am trying to rope in one or two external examiners
+for evaluation.
+
+The presentation shall tentatively be during 6-8 May
+within your lab sessions. The details shall follow.
+
+Additionally, you may also improve upon your submission
+during this period, fit into the project template,
+handle responsiveness, iron out the details etc.
+Furthermore, you may also submit a different project
+instead, under exceptional circumstances, and with
+explicit permission of your lab instructor.
+
+Hope that it’s an acceptable relaxation.
+
+All the best,   
+Raghav.
+

@@ -242,13 +242,14 @@ Raghav.
 
 [2024-05-03 Fri]
 
-[Submission
-Link](https://docs.google.com/forms/d/e/1FAIpQLSfc3ERPhLAXLr7SdAEh2nEKZvfWA2Qt8bjWLwN4ClXoOe9AEQ/viewform?usp=sf_link)
+1.  [Submission
+    Link](https://docs.google.com/forms/d/e/1FAIpQLSfc3ERPhLAXLr7SdAEh2nEKZvfWA2Qt8bjWLwN4ClXoOe9AEQ/viewform?usp=sf_link)
+2.  The final deadline has been extended to Mon 06 May
+    2024 08:00 hrs.
+3.  Book your presentation slot [here, at
+    calendly](https://calendly.com/bv-raghav/0x08-presentation).
 
-The final deadline has been extended to Mon 06 May 2024
-08:00 hrs. 
-
-# Weightage
+### Weightage
 
 + Storyboard (5 marks): Submitted on 10 Apr 2024
 + Implementation (5 marks): Some groups have been

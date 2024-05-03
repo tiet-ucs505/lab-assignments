@@ -1,6 +1,9 @@
 # UCS505 Lab Project
 (Jan 2024)
 
+**Update: [2024-05-03 Fri]:** [Submission Link and
+Final Deadline](#0x08--submission-link-and-final-deadline)
+
 **Update: 23 Apr 2024:** [Deadline Relaxed.](#0x08--documentation-and-presentation)
 
 **Update: 8 Apr 2024:** [Project Announced.](#0x08--animations-project)
@@ -234,3 +237,27 @@ Hope that it’s an acceptable relaxation.
 All the best,   
 Raghav.
 
+
+# 0x08 : Submission Link and Final Deadline
+
+[2024-05-03 Fri]
+
+[Submission
+Link](https://docs.google.com/forms/d/e/1FAIpQLSfc3ERPhLAXLr7SdAEh2nEKZvfWA2Qt8bjWLwN4ClXoOe9AEQ/viewform?usp=sf_link)
+
+The final deadline has been extended to Mon 06 May 2024
+08:00 hrs. 
+
+# Weightage
+
++ Storyboard (5 marks): Submitted on 10 Apr 2024
++ Implementation (5 marks): Some groups have been
+  evaluated already.  Revaluation only on demand.
++ USP (5 marks): eg. creativity, interactivity,
+  novelty, originality etc.  Again revaluation only on
+  demand.
++ Documentation (5 marks): How well a generic onlooker
+  may understand.
++ Presentation (5 marks): [Powerpoint is not a
+  necessary
+  tool.](https://www.youtube.com/watch?v=KbSPPFYxx3o)

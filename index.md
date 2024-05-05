@@ -53,7 +53,7 @@ Link to [Working Demo](./Pipe-hopper(code))
 - Home Page
 - Created Documentation Website
 - Drew static elements(sun) 
-- Added Funcitonalities(Pipe color changing)
+- Added Funcitonalities(Pipe color changing,Cloud movement)
 
 **Umang Srivastava**: 
 - Bird and Cloud shape logic
@@ -62,7 +62,7 @@ Link to [Working Demo](./Pipe-hopper(code))
 
 ## Websites/Video's for reference ##
 - [ChatGPT by OpenAI](https://chatgpt.com/)
-- [How to add onClick events](https://www.freecodecamp.org/news/javascript-addeventlistener-example-code/)
+- [How to use eventlistener events](https://www.freecodecamp.org/news/javascript-addeventlistener-example-code/)
 
 ## Objectives and Learnings ##
 -Create assets such as bird,clouds for the game.

@@ -40,7 +40,8 @@ The game simulates the challenges faced by a small bird navigating through a ser
 Challenges faced include:
 - Bird Shape: Designing a bird sprite that feels natural, visually appealing, and responsive.
 - Challenge: Creating dynamic cloud movement that adds depth to the game.
-Solution to above challenges:
+
+**Solution to above challenges:**
 - Bird: We studied cartoon drawings of birds and tried to mimic the general idea, using semi circles for the body and wings, and manually adjusting distances to a create realistic bird sprite.
 - Cloud: We tried to make an ellipse initially, but it looked very plain, so we adjusted by putting equal sized circles along the perimeter of the ellipse, to give it a rough cloud figure. We tried many values for the number of equidistant circles, but ended on 6, as it seemed the best.
 

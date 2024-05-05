@@ -7,7 +7,7 @@
 The aim of this project is to create an interactive game in which your mission is to navigate bird through a series of obstacles, all while maintaining a delicate balance between gravity and flight. Get ready to flap those wings, dodge pipes, and aim for the sky!!Because sometimes, all you need is a little bird with big dreams to remind you that the sky’s the limit.
 
 ## The Storyboard
-![storyboard](<image.jpg>)
+![image](https://github.com/D-Agam/2D-Animation-Pipe-Hopper-/assets/108125757/b68d9eb1-f855-4b05-81fc-611b0df3744a)
 
 ## Project GIF
 ![GIF](CG_Demo.gif)
@@ -28,9 +28,9 @@ The dynamic parts of the animation include:
 - Engagement: The static elements set the stage for the 
 interaction, while the dynamic parts create engagement 
 by allowing the user to participate actively in the animation.
-- Feedback Loop: The dynamic nature provides immediate feedback
+- The dynamic nature provides immediate feedback
 to the user's actions, enhancing the interactive experience.
-3. Reward System: The score serves as a 
+- Reward System: The score serves as a 
 reward for dodging the pipes and encouraging gamers to 
 maintain a delicate balance between gravity and flight of bird.
 

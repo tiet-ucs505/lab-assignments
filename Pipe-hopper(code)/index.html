@@ -1,35 +1,96 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pipe Hopper</title>
-    <style>
-        canvas {
-            border: 1px solid black;
-            display: block;
-            margin: 0 auto;
-            background-color: #87CEEB;
-            margin-top: -80px;
-        }
-        body{
-            background-color: rgb(205, 245, 200);
-        }
-    </style>
-</head>
-<body>
-    <header  style="margin-left:1230px; margin-top:48px;">
-        <h3>
-            By: Manchester United 7<br>
-            102103151: Agam<br>
-            102103165: Umang Srivastava
-        </h3>
-    </header>
-    <canvas id="gameCanvas" width="750" height="600" ></canvas>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>0x08 : 2D Pipe-Hopper (Project)</title>
+    <!-- Link to Tailwind CSS -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css"
+      rel="stylesheet"
+    />
+    <!-- Link to Ionicons -->
+    <script
+      type="module"
+      src="https://cdn.jsdelivr.net/npm/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://cdn.jsdelivr.net/npm/ionicons@7.1.0/dist/ionicons/ionicons.js"
+    ></script>
+  </head>
+  <body class="h-full w-full text-sm">
+    <div class="container flex flex-col nowrap gap-2 p-8 h-full m-auto">
+      <header class="flex flex-col md:flex-row justify-between md:items-end">
+        <h1 class="flex-none text-2xl font-bold">
+          0x08 : 2D Animations (Pipe-Hopper)
+        </h1>
+        <p class="md:text-right text-xs md:text-sm" id="by">By: Manchester United Seven (102103151,
+          102103165)</p>
+      </header>
+
+      <div class="flex-1 flex flex-col lg:flex-row gap-4 lg:gap-8">
+        <main class="experiment flex-1 flex flex-col gap-2">
+          <div class="flex-1 relative">
+            <canvas
+              id="gameCanvas"
+              width="800"
+              height="400" 
+              style="background-color: aqua;"
+              class="bg-slate-100 w-full "
+            ></canvas>
+            <div class="absolute top-0 right-0 text-center">
+              <a
+                class="cursor-pointer block p-2 text-blue-300 hover:text-blue-500 active:text-blue-700"
+                href="javascript:saveCanvas()"
+                title="Download canvas as image."
+                ><ion-icon name="save" class="text-3xl"></ion-icon><br />
+                <span class="text-sm">Download</span></a
+              >
+            </div>
+          </div>
+        </main>
+        <aside
+          class="flex-none flex flex-col gap-2 lg:max-w-sm min-h-52"
+          id="side-note"
+        >
+          <h2 class="text-lg font-bold">
+            Simple
+            <a
+              href="https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame"
+              ><code>requestAnimationFrame</code></a
+            >
+          </h2>
+          <p>Pipe-Hopper <code>Game</code></p>
+          <pre class="text-xs"><code id="valueFromStepperOne"></code></pre>
+          <div class="hidden">
+            <h2 class="text-lg font-bold">
+              Normalising speed in a
+              <a
+                href="https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame"
+                ><code>rAF</code> callback</a
+              >
+            </h2>
+            <p>
+              The returned numberline will be of the same scale, irrespective of
+              refresh rate <code>requestAnimationFrame</code>
+            </p>
+
+            <pre><code id="valueFromStepperTwo"></code></pre>
+          </div>
+
+          <div class="hidden">
+            <h3>
+              Using
+              <a
+                href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes"
+                >Javascript <code>class</code></a
+              >
+            </h3>
+          </div>
+        </aside>
+      </div>
+    </div>
     <script src="script.js"></script>
-    <hr>
-    <footer style="margin-left:780px;">
-    <h2>Pipe Hopper  3COE6</h2>
-    </footer>
-</body>
+  </body>
 </html>

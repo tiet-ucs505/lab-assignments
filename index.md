@@ -65,8 +65,8 @@ Link to [Working Demo](./Pipe-hopper(code))
 - [How to use eventlistener events](https://www.freecodecamp.org/news/javascript-addeventlistener-example-code/)
 
 ## Objectives and Learnings ##
--Create assets such as bird,clouds for the game.
--Research online resources and gather inspiration.
--Implement keyboard or touch controls for the bird’s movement.
--Utilizing HTML5 canvas for interactive graphics, encompassing shape rendering and event responsiveness.
--Creating smooth animations using requestAnimationFrame and updating canvas elements dynamically.
+- Create assets such as bird,clouds for the game.
+- Research online resources and gather inspiration.
+- Implement keyboard or touch controls for the bird’s movement.
+- Utilizing HTML5 canvas for interactive graphics, encompassing shape rendering and event responsiveness.
+- Creating smooth animations using requestAnimationFrame and updating canvas elements dynamically.

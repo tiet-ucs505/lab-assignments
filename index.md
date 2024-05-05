@@ -4,7 +4,7 @@
 ## Overview
 **Created by:** Manchester United Seven (102103151: Agam | 102103165: Umang Srivastava)
 
-The aim of this project is to create an interactive game in which your mission is to navigate bird through a series of obstacles, all while maintaining a delicate balance between gravity and flight. Get ready to flap those wings, dodge pipes, and aim for the sky!!Because sometimes, all you need is a little bird with big dreams to remind you that the sky’s the limit.
+The aim of this project is to create an interactive game in which your mission is to navigate bird through a series of obstacles, all while maintaining a delicate balance between gravity and flight. Get ready to flap those wings, dodge pipes, and aim for the sky! Because sometimes, all you need is a little bird with big dreams to remind you that the sky’s the limit.
 
 ## The Storyboard
 ![image](https://github.com/D-Agam/2D-Animation-Pipe-Hopper-/assets/108125757/b68d9eb1-f855-4b05-81fc-611b0df3744a)

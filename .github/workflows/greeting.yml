@@ -1,9 +1,13 @@
-name: Greetings #name of workflow its optional
-# events are described in on container  it is required
-on: [pull_request_target, issues]
+name: Greetings # Name of the workflow, it's optional
+# Events are described in the 'on' container. It is required.
+on:
+  pull_request_target:
+    types: [opened]
+  issues:
+    types: [opened]
 
 jobs:
-  greeting:#actions
+  greeting: # Job name
     runs-on: ubuntu-latest
     permissions:
       issues: write
@@ -12,5 +16,5 @@ jobs:
     - uses: actions/first-interaction@v1
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        issue-message: "You have figured your first issue"
-        pr-message: "Congrats on your first pull request"
+        issue-message: "You have created your first issue! 🎉"
+        pr-message: "Congrats on your first pull request! 🎉"

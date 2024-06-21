@@ -5,9 +5,8 @@
 
 | Code | Title               | Deadline | MM |
 |------|---------------------|----------|----|
-| 0x01 | WebGL 2D Primitives | 24-June  | 10 |
-| 0x02 | Transformations     | 08-July  | 10 |
-| 0x03 | WebGL 3D Primitives | 16-July  | 10 |
+| 0x01 | WebGL 2D Primitives | 08-July  | 10 |
+| 0x02 | WebGL 3D Primitives | 16-July  | 10 |
 
 [Submission
 Form](https://docs.google.com/forms/d/e/1FAIpQLSdmAG70DmnD4TMY8y9XT_r3Z2t0Q6ubCAnR9reQAUUtRPYKig/viewform?usp=sf_link)
